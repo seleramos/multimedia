@@ -1,0 +1,15 @@
+img {
+    width: 70%
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 600;
+    margin: 10px 0;
+    line-height: 1.2;
+    font-style: arial rounded;
+}
+
+video {
+    width: 70%;
+}
